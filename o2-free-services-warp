@@ -44,3 +44,4 @@ trojan://ItSjMC37sc@185.146.173.31:443?security=tls&sni=sus.suski2025.ir&type=tc
 vmess://eyJhZGQiOiJjaGF0Lm9wZW5haS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IjBvMG5sLm0ydjJtZTIuaXIiLCJpZCI6Ijk1MmVmNWMwLTNiMGItMTFlZi1iNzM4LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9xN2F0eHl6NSIsInBvcnQiOiI0NDMiLCJwcyI6IjQ0MyBWbWVzcyBOTCBGYXN0IChJUHY0ICYgSVB2NikgMjAyNC0wNy0xMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIwbzBubC5tMnYybWUyLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://756eb790-3b0e-11ef-ace3-1239d0255272@chat.openai.com:443?security=tls&sni=uso2.m2v2me2.ir&type=ws&path=/vlws&host=uso2.m2v2me2.ir&encryption=none#US
 vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=ws&path=/vless&host=48ugy.m2v2me2.ir&encryption=none#ssh%20o2%20germany
+vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#germany-gRPC
