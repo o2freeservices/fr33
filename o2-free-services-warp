@@ -46,4 +46,6 @@ vless://756eb790-3b0e-11ef-ace3-1239d0255272@chat.openai.com:443?security=tls&sn
 vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=ws&path=/vless&host=48ugy.m2v2me2.ir&encryption=none#ssh%20o2%20germany
 vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#germany-gRPC
 vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@chat.openai.com:443?security=tls&sni=8fr8.m2v2me2.ir&type=ws&path=/vless&host=8fr8.m2v2me2.ir&encryption=none#o2%20fr
-vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@o2frgrpc:443?security=tls&sni=8fr8.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#sshmax-sgst4574-gRPC
+vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@chat.openai.com:443?security=tls&sni=8fr8.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#sshmax-sgst4574-gRPC
+trojan://59df1b2a-31a8-4abc-8cd9-6591788d7b44@chat.openai.com:443?security=tls&sni=fr5644.m2v2me2.ir&type=ws&path=/&host=fr5644.m2v2me2.ir#3456%20o2%20fr
+trojan://59df1b2a-31a8-4abc-8cd9-6591788d7b44@chat.openai.com:443?security=tls&sni=fr5644.m2v2me2.ir&type=grpc&serviceName=grpc#fr%20trojan-grpc
