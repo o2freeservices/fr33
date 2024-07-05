@@ -45,3 +45,5 @@ vmess://eyJhZGQiOiJjaGF0Lm9wZW5haS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IjBvMG5sLm0ydjJt
 vless://756eb790-3b0e-11ef-ace3-1239d0255272@chat.openai.com:443?security=tls&sni=uso2.m2v2me2.ir&type=ws&path=/vlws&host=uso2.m2v2me2.ir&encryption=none#US
 vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=ws&path=/vless&host=48ugy.m2v2me2.ir&encryption=none#ssh%20o2%20germany
 vless://e032a7d2-f3b3-4897-9c0a-cf249a0a6531@chat.openai.com:443?security=tls&sni=48ugy.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#germany-gRPC
+vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@chat.openai.com:443?security=tls&sni=8fr8.m2v2me2.ir&type=ws&path=/vless&host=8fr8.m2v2me2.ir&encryption=none#o2%20fr
+vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@o2frgrpc:443?security=tls&sni=8fr8.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#sshmax-sgst4574-gRPC
