@@ -8,3 +8,5 @@ vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@chat.openai.com:443?security=tls&sn
 vless://c1b50f80-cef5-453f-bf73-f1267fc9d54e@chat.openai.com:443?security=tls&sni=8fr8.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#sshmax-sgst4574-gRPC
 trojan://59df1b2a-31a8-4abc-8cd9-6591788d7b44@chat.openai.com:443?security=tls&sni=fr5644.m2v2me2.ir&type=ws&path=/&host=fr5644.m2v2me2.ir#3456%20o2%20fr
 trojan://59df1b2a-31a8-4abc-8cd9-6591788d7b44@chat.openai.com:443?security=tls&sni=fr5644.m2v2me2.ir&type=grpc&serviceName=grpc#fr%20trojan-grpc
+vless://274b6e33-ef2a-4ca8-9760-2145c3591313@chat.openai.com:443?security=tls&sni=can764.m2v2me2.ir&type=ws&path=/vless&host=can764.m2v2me2.ir&encryption=none#canada-gugcan-ws
+vless://274b6e33-ef2a-4ca8-9760-2145c3591313@chat.openai.com:443?security=tls&sni=can764.m2v2me2.ir&type=grpc&serviceName=vless-grpc&encryption=none#canada-gugcan-gRPC
