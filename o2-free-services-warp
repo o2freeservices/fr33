@@ -17,3 +17,5 @@ vless://5481091d-2e58-4e04-9893-a3bc89c85106@chat.openai.com:443?path=%2FVLESS&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@166.88.228.187:1080#France%20#1077%20/%20OutlineKeys.com
 vless://139f0356-e75d-477c-ba77-3a53e8e43681@chat.openai.com:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=u23canada.m2v2me2.ir#canada+grpc+o2
 vless://139f0356-e75d-477c-ba77-3a53e8e43681@chat.openai.com:443?path=%2Fvless&security=tls&encryption=none&host=u23canada.m2v2me2.ir&type=ws&sni=u23canada.m2v2me2.ir#canada+ws+o2
+vless://cdeee390-2a6a-44a4-9df6-da961089014b@chat.openai.com:2096?path=%2Fvless&security=tls&encryption=none&host=germ2ny.m2v2me2.ir&type=ws&sni=germ2ny.m2v2me2.ir#Germany-ws-o2
+vless://cdeee390-2a6a-44a4-9df6-da961089014b@chat.openai.com:2096?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=germ2ny.m2v2me2.ir#Germany-gRPC-o2
