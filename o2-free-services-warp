@@ -20,3 +20,4 @@ vless://139f0356-e75d-477c-ba77-3a53e8e43681@chat.openai.com:443?path=%2Fvless&s
 vless://cdeee390-2a6a-44a4-9df6-da961089014b@chat.openai.com:2096?path=%2Fvless&security=tls&encryption=none&host=germ2ny.m2v2me2.ir&type=ws&sni=germ2ny.m2v2me2.ir#Germany-ws-o2
 vless://cdeee390-2a6a-44a4-9df6-da961089014b@chat.openai.com:2096?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=germ2ny.m2v2me2.ir#Germany-gRPC-o2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@89.23.113.148:1080#Russia+o2
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZW5nbGxsbC5tMnYybWUyLmlyIiwiaWQiOiI0ZTE4NjY3OC1mY2NhLTQzMjUtZTRiYy1iMjkxNmJkZjY3MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoi5b635Zu9b8Ky5YWs5Y+4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
