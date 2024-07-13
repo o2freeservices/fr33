@@ -21,3 +21,5 @@ vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082/?type=ws&encrypt
 vless://ab1c3eae-f17e-423a-9c17-537c38e6f649@chat.openai.com:443?path=%2Fvless&security=tls&encryption=none&host=getfinland.m2v2me2.ir&type=ws&sni=getfinland.m2v2me2.ir#Finland-ws-oc-o2
 vless://ab1c3eae-f17e-423a-9c17-537c38e6f649@chat.openai.com:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=getfinland.m2v2me2.ir#Finland-gRPC-oc-o2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVEpsT1dabQ@95.164.37.226:8388#England%20outline_exp31Jul24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1ZpTW1GbA@95.164.35.90:8388#o2-Poland_exp31Jul24
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVEpsT1dabQ@95.164.37.226:8388#England%20outline_exp31Jul24%20o2
