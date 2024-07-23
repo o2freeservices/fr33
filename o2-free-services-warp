@@ -8,3 +8,5 @@ vless://ff7abd33-89f7-48e0-b594-30f7a66497cb@www.speedtest.net:443?path=%2Fvless
 vless://ff7abd33-89f7-48e0-b594-30f7a66497cb@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=fin3773.m2v2me2.ir#o2%3A+Finland+grpc
 vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=ita63663.m2v2me2.ir#o2%3A+Italy-gRPC
 vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ita63663.m2v2me2.ir&type=ws&sni=ita63663.m2v2me2.ir#o2%3A+Italy+ws
+trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=fran4544.m2v2me2.ir#o2%3Afrance_gRPC
+trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=fran4544.m2v2me2.ir&type=ws&sni=fran4544.m2v2me2.ir#o2%3Afrance_ws
