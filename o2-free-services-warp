@@ -10,3 +10,5 @@ vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?mode=gun&secu
 vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ita63663.m2v2me2.ir&type=ws&sni=ita63663.m2v2me2.ir#o2%3A+Italy+ws
 trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=fran4544.m2v2me2.ir#o2%3Afrance_gRPC
 trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=fran4544.m2v2me2.ir&type=ws&sni=fran4544.m2v2me2.ir#o2%3Afrance_ws
+trojan://e228ed80-184e-4d4d-830b-013d2999b26d@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=ger6363.m2v2me2.ir#germany-grpc+443
+trojan://e228ed80-184e-4d4d-830b-013d2999b26d@www.speedtest.net:443?path=%2F&security=tls&host=ger6363.m2v2me2.ir&type=ws&sni=ger6363.m2v2me2.ir#Germany_trojan_ws+443
