@@ -6,3 +6,5 @@ vless://991af156-a4a2-4ac9-90f0-4f8f8ea79b09@www.speedtest.net:443?path=%2Fvless
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXNvMjQ1Ni5tMnYybWUyLmlyIiwiaWQiOiI3OWVjNGIxNi00OGVhLTExZWYtYTc4Mi0wMDE2M2U2MDg1YzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjgwIiwicHMiOiJvMjpVU0EgTE9DQVRJT04gODAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://ff7abd33-89f7-48e0-b594-30f7a66497cb@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=fin3773.m2v2me2.ir&type=ws&sni=fin3773.m2v2me2.ir#o2%3A+Finland+ws
 vless://ff7abd33-89f7-48e0-b594-30f7a66497cb@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=fin3773.m2v2me2.ir#o2%3A+Finland+grpc
+vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=ita63663.m2v2me2.ir#o2%3A+Italy-gRPC
+vless://c9133d34-01ba-4535-991b-bd436dadefcb@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ita63663.m2v2me2.ir&type=ws&sni=ita63663.m2v2me2.ir#o2%3A+Italy+ws
