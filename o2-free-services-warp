@@ -12,3 +12,5 @@ trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?mode=gun&sec
 trojan://64535cd8-8209-4a54-a8c3-255290829ea5@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=fran4544.m2v2me2.ir&type=ws&sni=fran4544.m2v2me2.ir#o2%3Afrance_ws
 trojan://e228ed80-184e-4d4d-830b-013d2999b26d@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=ger6363.m2v2me2.ir#germany-grpc+443
 trojan://e228ed80-184e-4d4d-830b-013d2999b26d@www.speedtest.net:443?path=%2F&security=tls&host=ger6363.m2v2me2.ir&type=ws&sni=ger6363.m2v2me2.ir#Germany_trojan_ws+443
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@www.speedtest.net:80?path=%2Fopentunnel%3Fuser%3Dopentunnel.net-uk8484&security=none&encryption=none&host=ukop.m2v2me2.ir&type=ws&sni=ukop.m2v2me2.ir#united+kingdom+80
+vless://4f17e173-4af9-5041-9662-f6c27e0decfd@www.speedtest.net:443?path=%2Fopentunnel%3Fuser%3Dopentunnel.net-uk8484&security=tls&encryption=none&host=ukop.m2v2me2.ir&type=ws&sni=ukop.m2v2me2.ir#united+kingdom+443
