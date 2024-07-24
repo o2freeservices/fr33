@@ -18,3 +18,6 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://I_Love_🇵🇸_SSHMax_8723a52@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=us245.m2v2me2.ir&type=ws&sni=us245.m2v2me2.ir#o2%3Ausa-ws+443
 vless://I_Love_🇵🇸_SSHMax_8723a52@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=us245.m2v2me2.ir#o2%3Ausa-gRPC
 vless://I_Love_🇵🇸_SSHMax_8723a52@www.speedtest.net:80?path=%2Fvless&security=none&encryption=none&host=us245.m2v2me2.ir&type=ws#o2%3Ausa+80+ws
+vless://I_Love_🇵🇸_SSHMax_ec7f848@www.speedtest.net:80?path=%2Fvless&security=none&encryption=none&host=nl765.m2v2me2.ir&type=ws#Netherlands+ws+80
+vless://I_Love_🇵🇸_SSHMax_ec7f848@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=nl765.m2v2me2.ir&type=ws&sni=nl765.m2v2me2.ir#Netherlands-ws+tls
+vless://I_Love_🇵🇸_SSHMax_ec7f848@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=nl765.m2v2me2.ir#Netherlands-gRPC
