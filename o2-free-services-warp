@@ -27,3 +27,5 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTMyZXIubTJ2Mm1lMi5pciIsImlkIjoiMDE0M2I5ZmUtYzAzMy00ZGJiLWFmYWMtZjNiMTAzOTEzNTc2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NlcnZlcnNzaC5uZXQiLCJwb3J0IjoiODAiLCJwcyI6Im8yOmdlcm1hbnkgc3NoIiwic2N5IjoiYXV0byIsInNuaSI6IjEzMmVyLm0ydjJtZTIuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://11576705-4bbf-48dc-891f-2252b14712b2@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=fr359.m2v2me2.ir&type=ws&sni=fr359.m2v2me2.ir#o2-france-race
 vless://ab9c61b7-ada6-4edc-9597-29d891554e31@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=nether737.m2v2me2.ir&type=ws&sni=nether737.m2v2me2.ir#o2-netherlands-tls
+vless://ccfdd66b-b792-4284-9486-8e1a64b3f8ed@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=fin3773.m2v2me2.ir&type=ws&sni=fin3773.m2v2me2.ir#Finland-ws
+vless://ccfdd66b-b792-4284-9486-8e1a64b3f8ed@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=fin3773.m2v2me2.ir#Finland-gRPC
