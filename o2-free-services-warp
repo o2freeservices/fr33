@@ -31,3 +31,5 @@ vless://ccfdd66b-b792-4284-9486-8e1a64b3f8ed@www.speedtest.net:443?path=%2Fvless
 vless://ccfdd66b-b792-4284-9486-8e1a64b3f8ed@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=fin3773.m2v2me2.ir#Finland-gRPC
 vless://43b822ea-51bf-447e-9acb-36ca8386bcba@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=germ2ny.m2v2me2.ir&type=ws&sni=germ2ny.m2v2me2.ir#Germany-ws-o2
 vless://43b822ea-51bf-447e-9acb-36ca8386bcba@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=germ2ny.m2v2me2.ir#Germamy-gRPC+o2
+vless://d103d466-6acb-49c0-9109-b60db09d4690@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ca1.u23canada.m2v2me2.ir&type=ws&sni=u23canada.m2v2me2.ir#canada-ws+o2
+vless://d103d466-6acb-49c0-9109-b60db09d4690@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=u23canada.m2v2me2.ir#Canada-gRPC+o2
