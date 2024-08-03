@@ -40,3 +40,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@Www.speedtest.net:443?path=%2Fanything%2Ffreevpn.us-multi79832%2Ftrojan&security=tls&host=7r7hxshd.m2v2me2.ir&type=ws&sni=7r7hxshd.m2v2me2.ir#o2+Germany+trojan
 vless://7772bb24-976a-45ca-aa76-f4f1b7f50923@www.speedtest.net:443?path=%2Fanything%2Ffreevpn.us-multi79832%2Fvless&security=tls&encryption=none&host=7r7hxshd.m2v2me2.ir&type=ws&sni=7r7hxshd.m2v2me2.ir#o2+Germany+vless
 vless://d839e35b-6f1f-4ead-8ffe-dfb54157ed03@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=hung.m2v2me2.ir&path=%2Fvless&security=tls&sni=hung.m2v2me2.ir#hungary-ws-o2
+vless://59d05eb8-bc8e-40b2-9495-31ae71371c06@www.speedtest.net:443/?type=ws&encryption=none&host=den44.m2v2me2.ir&path=%2Fvless&security=tls&sni=den44.m2v2me2.ir#Denmark-ws%20o2
