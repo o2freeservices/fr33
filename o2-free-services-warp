@@ -42,3 +42,4 @@ vless://7772bb24-976a-45ca-aa76-f4f1b7f50923@www.speedtest.net:443?path=%2Fanyth
 vless://d839e35b-6f1f-4ead-8ffe-dfb54157ed03@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=hung.m2v2me2.ir&path=%2Fvless&security=tls&sni=hung.m2v2me2.ir#hungary-ws-o2
 vless://59d05eb8-bc8e-40b2-9495-31ae71371c06@www.speedtest.net:443/?type=ws&encryption=none&host=den44.m2v2me2.ir&path=%2Fvless&security=tls&sni=den44.m2v2me2.ir#Denmark-ws%20o2
 trojan://89fc8263-7d14-4ea3-b82d-ba3c181bae4a@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=sweden33.m2v2me2.ir&type=ws&sni=sweden33.m2v2me2.ir#sweden_ws
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicG9sYW5kMzQ0Lm0ydjJtZTIuaXIiLCJpZCI6ImJjNTkxNDFhLTUxZjYtMTFlZi05YjlhLTE3ZTBlYTc3ZDA0ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiODAiLCJwcyI6InBvbGFuZCB3cyBudGxzIG8yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
