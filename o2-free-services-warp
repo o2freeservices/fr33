@@ -41,3 +41,5 @@ trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@Www.speedtest.net:443?path=%2Fanyt
 vless://7772bb24-976a-45ca-aa76-f4f1b7f50923@www.speedtest.net:443?path=%2Fanything%2Ffreevpn.us-multi79832%2Fvless&security=tls&encryption=none&host=7r7hxshd.m2v2me2.ir&type=ws&sni=7r7hxshd.m2v2me2.ir#o2+Germany+vless
 vless://d839e35b-6f1f-4ead-8ffe-dfb54157ed03@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=hung.m2v2me2.ir&path=%2Fvless&security=tls&sni=hung.m2v2me2.ir#hungary-ws-o2
 vless://59d05eb8-bc8e-40b2-9495-31ae71371c06@www.speedtest.net:443/?type=ws&encryption=none&host=den44.m2v2me2.ir&path=%2Fvless&security=tls&sni=den44.m2v2me2.ir#Denmark-ws%20o2
+vless://d839e35b-6f1f-4ead-8ffe-dfb54157ed03@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=sweden33.m2v2me2.ir#sweden-gRPC
+trojan://89fc8263-7d14-4ea3-b82d-ba3c181bae4a@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=sweden33.m2v2me2.ir&type=ws&sni=sweden33.m2v2me2.ir#sweden_ws
