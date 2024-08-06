@@ -44,3 +44,5 @@ vless://59d05eb8-bc8e-40b2-9495-31ae71371c06@www.speedtest.net:443/?type=ws&encr
 trojan://89fc8263-7d14-4ea3-b82d-ba3c181bae4a@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=sweden33.m2v2me2.ir&type=ws&sni=sweden33.m2v2me2.ir#sweden_ws
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicG9sYW5kMzQ0Lm0ydjJtZTIuaXIiLCJpZCI6ImJjNTkxNDFhLTUxZjYtMTFlZi05YjlhLTE3ZTBlYTc3ZDA0ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92cG5qYW50aXQiLCJwb3J0IjoiODAiLCJwcyI6InBvbGFuZCB3cyBudGxzIG8yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://0efc4dc0-53d3-11ef-8298-1239d0255272@www.speedtest.net:443?path=%2Ftrojanws&security=tls&host=66us.m2v2me2.ir&type=ws&sni=66us.m2v2me2.ir#US+o2
+trojan://5fa0747d-f2f0-44b6-ade7-399be2e8b8b1@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=45uru.m2v2me2.ir&type=ws&sni=45uru.m2v2me2.ir#England_ws
+trojan://5fa0747d-f2f0-44b6-ade7-399be2e8b8b1@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=45uru.m2v2me2.ir#England_gRPC
