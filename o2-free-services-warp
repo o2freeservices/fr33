@@ -1,2 +1,4 @@
 vless://b6d26fbe-c9e4-430d-9efb-f43cd6596ab5@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=hehyd6.m2v2me2.ir#%D8%A2%D9%84%D9%85%D8%A7%D9%86+o2+grpc
 vless://b6d26fbe-c9e4-430d-9efb-f43cd6596ab5@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=hehyd6.m2v2me2.ir&type=ws&sni=hehyd6.m2v2me2.ir#%D8%A2%D9%84%D9%85%D8%A7%D9%86+o2+ws
+vless://53514890-d990-4acf-8dec-1cc26d669c71@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=sweden345.m2v2me2.ir#%D8%B3%D9%88%D8%A6%D8%AF-gRPC
+vless://53514890-d990-4acf-8dec-1cc26d669c71@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=sweden345.m2v2me2.ir&type=ws&sni=sweden345.m2v2me2.ir#%D8%B3%D9%88%D8%A6%D8%AF-ws
