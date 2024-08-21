@@ -5,3 +5,5 @@ vless://53514890-d990-4acf-8dec-1cc26d669c71@www.speedtest.net:443?path=%2Fvless
 trojan://101dd890-1c49-4007-9d70-8d36103b3508@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=uk84848.m2v2me2.ir#%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
 vless://34f69df0-0537-4cb1-8a8d-70a823d080d8@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=o2nl321.m2v2me2.ir&type=ws&sni=o2nl321.m2v2me2.ir#%D9%87%D9%84%D9%86%D8%AFws
 vless://34f69df0-0537-4cb1-8a8d-70a823d080d8@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=nl1.v2vless.site#%D9%87%D9%84%D9%86%D8%AF-gRPC
+trojan://06ef7515-14a6-471d-a4ba-0dee42923ffc@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=fr7383.m2v2me2.ir#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87_gRPC
+trojan://06ef7515-14a6-471d-a4ba-0dee42923ffc@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=fr7383.m2v2me2.ir&type=ws&sni=fr7383.m2v2me2.ir#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87_ws
