@@ -7,3 +7,4 @@ vless://1d1baf88-3d32-41c5-b1bb-6172f7b66049@www.speedtest.net:443?path=%2FVLESS
 vless://cfb3d09e-d4a3-4301-a23b-b971f65f76bd@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=ulshd.m2v2me2.ir#Finland-gRPC
 vless://cfb3d09e-d4a3-4301-a23b-b971f65f76bd@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ulshd.m2v2me2.ir&type=ws&sni=ulshd.m2v2me2.ir#Finland+ws
 vless://3ea49240-67c8-11ef-805c-1239d0255272@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vlgrpc&sni=uso2.m2v2me2.ir#US
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNXQ1dDV0ZS5tMnYybWUyLmlyIiwiaWQiOiJiNmYxODc0ZS02N2M5LTExZWYtOTAxMi04YmYzNjQ3NjQyMDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjgwIiwicHMiOiJDemVjaCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
