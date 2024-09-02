@@ -8,3 +8,6 @@ vless://cfb3d09e-d4a3-4301-a23b-b971f65f76bd@www.speedtest.net:443?mode=gun&secu
 vless://cfb3d09e-d4a3-4301-a23b-b971f65f76bd@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=ulshd.m2v2me2.ir&type=ws&sni=ulshd.m2v2me2.ir#Finland+ws
 vless://3ea49240-67c8-11ef-805c-1239d0255272@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vlgrpc&sni=uso2.m2v2me2.ir#US
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNXQ1dDV0ZS5tMnYybWUyLmlyIiwiaWQiOiJiNmYxODc0ZS02N2M5LTExZWYtOTAxMi04YmYzNjQ3NjQyMDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjgwIiwicHMiOiJDemVjaCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://7cd18cd9-2a70-46c8-bb89-091212a70a79@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=troj388.m2v2me2.ir#Sweden+grpc
+vless://f8598aa1-7f2c-4f6f-8a22-48f311d198d6@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=us7377j.m2v2me2.ir#united+states+grpc
+trojan://00c436ed-6f25-41f0-bb58-2ff221215ca5@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=8i8iturk.m2v2me2.ir#turkey_gRPC
