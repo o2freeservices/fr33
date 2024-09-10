@@ -19,3 +19,9 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaWQ4ZTg0Lm0ydjJtZTIuaXIiLCJpZCI6ImViMjJhYjNlLTE0ZDgtNGEyYy04MGYxLTUwMTIzZmNjNTlkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9KQUdPQU5TU0gvIiwicG9ydCI6IjQ0MyIsInBzIjoiafCfq4EiLCJzY3kiOiJhdXRvIiwic25pIjoiaWQ4ZTg0Lm0ydjJtZTIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://fbd470ef-7163-4cb5-8677-6b016122100a@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=u23canada.m2v2me2.ir#canada+%F0%9F%AB%81W
 vless://fbd470ef-7163-4cb5-8677-6b016122100a@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=u23canada.m2v2me2.ir&type=ws&sni=u23canada.m2v2me2.ir#canada+%F0%9F%AB%81+G
+trojan://7bf377f3-ef39-4ce4-8bbb-c9aaca189026@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=45uru.m2v2me2.ir#England_gRPC
+trojan://7bf377f3-ef39-4ce4-8bbb-c9aaca189026@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=45uru.m2v2me2.ir&type=ws&sni=45uru.m2v2me2.ir#England_ws
+trojan://e118882c-425f-4cf4-a63b-9ec9f955f79e@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=turkkk3.m2v2me2.ir&type=ws&sni=turkkk3.m2v2me2.ir#turkey_ws
+trojan://e118882c-425f-4cf4-a63b-9ec9f955f79e@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=turkkk3.m2v2me2.ir#turkey_gRPC
+trojan://c87b48d4-dbd3-43fe-9387-1f88d9fa94c2@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=sweden33.m2v2me2.ir#sweden_gRPC
+trojan://c87b48d4-dbd3-43fe-9387-1f88d9fa94c2@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=sweden33.m2v2me2.ir&type=ws&sni=sweden33.m2v2me2.ir#sweden_ws
