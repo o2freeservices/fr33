@@ -30,3 +30,4 @@ vless://b171a662-fa55-4fad-b185-1db14b158758@www.speedtest.net:443?path=%2Fvless
 vless://b171a662-fa55-4fad-b185-1db14b158758@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=den44.m2v2me2.ir#Denmark-gRPC
 vless://3e02a13c-365f-4223-b742-1f93f8a22a9f@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=fran992.m2v2me2.ir&type=ws&sni=fran992.m2v2me2.ir#france-vless-ws-tls
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidWtyYWluODcubTJ2Mm1lMi5pciIsImlkIjoiNTE5YjMyNGEtZWViYS00ZGIxLWJkNmQtNzI1YjFlYmM3ZmM0IiwibmV0Ijoid3MiLCJwYXRoIjoiL1JBQ0VWUE4iLCJwb3J0IjoiNDQzIiwicHMiOiJ2bWVzcy13cy10bHMiLCJzY3kiOiJhdXRvIiwic25pIjoidWtyYWluODcubTJ2Mm1lMi5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://688df1b0-7062-11ef-a8da-1239d0255272@www.speedtest.net:443?path=%2Ftrojanws&security=tls&host=66us.m2v2me2.ir&type=ws&sni=66us.m2v2me2.ir#US
