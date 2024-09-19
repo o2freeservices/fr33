@@ -4,3 +4,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://f28af882-85c9-4d2f-816d-998183edab94@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=higer.m2v2me2.ir#Germany-gRPC
 vless://f28af882-85c9-4d2f-816d-998183edab94@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=higer.m2v2me2.ir&type=ws&sni=higer.m2v2me2.ir#Germany-ws
 vless://ef20ddee-fc53-48ad-a102-77e36e864dda@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=uuswdn.m2v2me2.ir#Sweden-gRPC
+vless://9729bf12-694f-4e77-a363-dbb4bb4ad741@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=hicnorway.m2v2me2.ir#norway-gRPC
