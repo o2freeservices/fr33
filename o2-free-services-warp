@@ -1,3 +1,5 @@
 vless://b881a6a7-c5e1-4e46-bfaf-1d9546909e74@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=getfinland.m2v2me2.ir&type=ws&sni=getfinland.m2v2me2.ir#Finland-ws
 vless://b881a6a7-c5e1-4e46-bfaf-1d9546909e74@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=getfinland.m2v2me2.ir#Finland-gRPC
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXM3Mzc3Lm0ydjJtZTIuaXIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+rgfCfh7rwn4e48J+rgSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1czczNzcubTJ2Mm1lMi5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://f28af882-85c9-4d2f-816d-998183edab94@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=higer.m2v2me2.ir#Germany-gRPC
+vless://f28af882-85c9-4d2f-816d-998183edab94@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=higer.m2v2me2.ir&type=ws&sni=higer.m2v2me2.ir#Germany-ws
