@@ -6,3 +6,5 @@ vless://f28af882-85c9-4d2f-816d-998183edab94@www.speedtest.net:443?path=%2Fvless
 vless://ef20ddee-fc53-48ad-a102-77e36e864dda@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=uuswdn.m2v2me2.ir#Sweden-gRPC
 vless://9729bf12-694f-4e77-a363-dbb4bb4ad741@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=hicnorway.m2v2me2.ir#norway-gRPC
 vless://9729bf12-694f-4e77-a363-dbb4bb4ad741@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=hicnorway.m2v2me2.ir&type=ws&sni=hicnorway.m2v2me2.ir#Norway-ws
+vless://1fb0a389-d130-4ba3-97dd-37712d26f086@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=fran992.m2v2me2.ir&type=ws&sni=fran992.m2v2me2.ir#France
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibzJjZS5tMnYybWUyLmlyIiwiaWQiOiI5ZmFkZjNkYS03OTE1LTExZWYtOTJiOS1kYjAzNGNkOTEwMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjgwIiwicHMiOiJDemVjaCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
