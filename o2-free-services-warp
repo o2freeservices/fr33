@@ -8,3 +8,5 @@ vless://9729bf12-694f-4e77-a363-dbb4bb4ad741@www.speedtest.net:443?mode=gun&secu
 vless://9729bf12-694f-4e77-a363-dbb4bb4ad741@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=hicnorway.m2v2me2.ir&type=ws&sni=hicnorway.m2v2me2.ir#Norway-ws
 vless://1fb0a389-d130-4ba3-97dd-37712d26f086@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=fran992.m2v2me2.ir&type=ws&sni=fran992.m2v2me2.ir#France
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibzJjZS5tMnYybWUyLmlyIiwiaWQiOiI5ZmFkZjNkYS03OTE1LTExZWYtOTJiOS1kYjAzNGNkOTEwMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjgwIiwicHMiOiJDemVjaCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://7bf377f3-ef39-4ce4-8bbb-c9aaca189026@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=45uru.m2v2me2.ir&type=ws&sni=45uru.m2v2me2.ir#England_ws
+trojan://e118882c-425f-4cf4-a63b-9ec9f955f79e@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=turkkk3.m2v2me2.ir&type=ws&sni=turkkk3.m2v2me2.ir#turkey_ws
