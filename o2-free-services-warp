@@ -4,3 +4,4 @@ trojan://7bf377f3-ef39-4ce4-8bbb-c9aaca189026@www.speedtest.net:443?path=%2Fwebs
 trojan://e118882c-425f-4cf4-a63b-9ec9f955f79e@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=turkkk3.m2v2me2.ir#turkey_gRPC
 vless://595cd0c8-7fd3-4c95-b4dc-3f442eed7e4d@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=48ugy.m2v2me2.ir#o%C2%B2+Germany+grpc
 vless://595cd0c8-7fd3-4c95-b4dc-3f442eed7e4d@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=48ugy.m2v2me2.ir&type=ws&sni=48ugy.m2v2me2.ir#o%C2%B2+Germany+ws
+vless://e321f47f-dc5f-4113-8433-dc821708a6fb@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=tork3222.m2v2me2.ir&type=ws&sni=tork3222.m2v2me2.ir#vless-ws-tls-turkey
