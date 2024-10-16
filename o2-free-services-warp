@@ -19,4 +19,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://0fc347ba-8d55-4205-9e5f-acdbbf22f789@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=armn.m2v2me2.ir#Armenia-gRPC+%F0%9F%AB%81
 vless://0fc347ba-8d55-4205-9e5f-acdbbf22f789@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=armn.m2v2me2.ir&type=ws&sni=armn.m2v2me2.ir#Armenia+ws+%F0%9F%AB%81
 trojan://fe6c3701-b86b-454f-b6d7-39608dbe8867@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=nl11.m2v2me2.ir&type=ws&sni=nl11.m2v2me2.ir#ws+Netherlands+%F0%9F%AB%81
-ss://YWVzLTI1Ni1nY206Rzk5ejIzaHNVdmFFMkNZZzRRT0VKb1kzcFVFTlBUQVY0U2ZBUmhWanlYUT0=@51.75.162.200:8443#o2+shadowsocks
+vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=ioie7.m2v2me2.ir#%F0%9F%87%A9%F0%9F%87%AA%5Bo2%5D+vless-DE
