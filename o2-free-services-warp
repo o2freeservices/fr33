@@ -1,12 +1,4 @@
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXM3Mzc3Lm0ydjJtZTIuaXIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+rgfCfh7rwn4e48J+rgSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1czczNzcubTJ2Mm1lMi5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://c87b48d4-dbd3-43fe-9387-1f88d9fa94c2@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=sweden33.m2v2me2.ir#sweden_gRPC
-trojan://7bf377f3-ef39-4ce4-8bbb-c9aaca189026@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=45uru.m2v2me2.ir&type=ws&sni=45uru.m2v2me2.ir#England_ws
-trojan://e118882c-425f-4cf4-a63b-9ec9f955f79e@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=turkkk3.m2v2me2.ir#turkey_gRPC
-vless://595cd0c8-7fd3-4c95-b4dc-3f442eed7e4d@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=48ugy.m2v2me2.ir#o%C2%B2+Germany+grpc
-vless://595cd0c8-7fd3-4c95-b4dc-3f442eed7e4d@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=48ugy.m2v2me2.ir&type=ws&sni=48ugy.m2v2me2.ir#o%C2%B2+Germany+ws
-vless://e321f47f-dc5f-4113-8433-dc821708a6fb@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=tork3222.m2v2me2.ir&type=ws&sni=tork3222.m2v2me2.ir#vless-ws-tls-turkey
-vless://c9ecf59e-364c-410e-8c51-1899a3c0ac60@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=germ2ny.m2v2me2.ir&type=ws&sni=germ2ny.m2v2me2.ir#Germany+ws+vp+o%C2%B2
-vless://c9ecf59e-364c-410e-8c51-1899a3c0ac60@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=germ2ny.m2v2me2.ir#Germany+grpc+vp+o%C2%B2
 vless://1e61f84e-f5f7-4aee-a444-f5e357e0ad7d@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=netherlandsss27.m2v2me2.ir&type=ws&sni=netherlandsss27.m2v2me2.ir#Netherlands+ws+%F0%9F%AB%81
 vless://1e61f84e-f5f7-4aee-a444-f5e357e0ad7d@www.speedtest.net:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=netherlandsss27.m2v2me2.ir#Netherlands+grpc+%F0%9F%AB%81
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2FuMzQ1Lm0ydjJtZTIuaXIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+rgSBjYW5hZGEg8J+rgSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYW4zNDUubTJ2Mm1lMi5pciIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -24,3 +16,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2087?mode=gun&sec
 trojan://678c32ab-7458-4a47-bc23-b72f923f77c3@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=fran4544.m2v2me2.ir#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
 trojan://6d8e7bd1-de2b-4188-bc9d-999d1602dd0b@creativecommons.org:443?path=%2Fanything%2Fopenproxylist.com-scobeycaquias%2Ftrojan&security=tls&host=de1422.m2v2me2.ir&type=ws&sni=de1422.m2v2me2.ir#Germany+o2+%F0%9F%AB%81+Trojan
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Finland+405+%2F
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@www.speedtest.net:8443?path=%2FTELEGRAM-%40vpnAndroid2.%40vpnAndroid2%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#vle%24%24%F0%9F%AB%81
