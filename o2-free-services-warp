@@ -21,3 +21,4 @@ vless://0fc347ba-8d55-4205-9e5f-acdbbf22f789@www.speedtest.net:443?path=%2Fvless
 trojan://fe6c3701-b86b-454f-b6d7-39608dbe8867@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=nl11.m2v2me2.ir&type=ws&sni=nl11.m2v2me2.ir#ws+Netherlands+%F0%9F%AB%81
 vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=ioie7.m2v2me2.ir#%F0%9F%87%A9%F0%9F%87%AA%5Bo2%5D+vless-DE
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2087?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=fnl4833.m2v2me2.ir#%F0%9F%87%AB%F0%9F%87%AE%5Bo2%5D+vless-FI
+trojan://678c32ab-7458-4a47-bc23-b72f923f77c3@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=fran4544.m2v2me2.ir#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
