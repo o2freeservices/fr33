@@ -17,3 +17,5 @@ trojan://678c32ab-7458-4a47-bc23-b72f923f77c3@www.speedtest.net:443?mode=gun&sec
 trojan://6d8e7bd1-de2b-4188-bc9d-999d1602dd0b@creativecommons.org:443?path=%2Fanything%2Fopenproxylist.com-scobeycaquias%2Ftrojan&security=tls&host=de1422.m2v2me2.ir&type=ws&sni=de1422.m2v2me2.ir#Germany+o2+%F0%9F%AB%81+Trojan
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Finland+405+%2F
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@www.speedtest.net:8443?path=%2FTELEGRAM-%40vpnAndroid2.%40vpnAndroid2%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#vle%24%24%F0%9F%AB%81
+trojan://e82e9dad-7d93-420c-879f-16aae3a3f15c@tr1.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=www.speedtest.net#sshocean-multi79832_gRPC
+trojan://e82e9dad-7d93-420c-879f-16aae3a3f15c@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=turkkk3.m2v2me2.ir&type=ws&sni=turkkk3.m2v2me2.ir#Turk+Trojan+o2+%F0%9F%AB%81
