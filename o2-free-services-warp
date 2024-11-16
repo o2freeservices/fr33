@@ -20,3 +20,4 @@ vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@www.speedtest.net:8443?path=%2FTELE
 trojan://e82e9dad-7d93-420c-879f-16aae3a3f15c@tr1.safecdn.site:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=www.speedtest.net#sshocean-multi79832_gRPC
 trojan://e82e9dad-7d93-420c-879f-16aae3a3f15c@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=turkkk3.m2v2me2.ir&type=ws&sni=turkkk3.m2v2me2.ir#Turk+Trojan+o2+%F0%9F%AB%81
 trojan://75e66aad-0d20-426a-8ec8-5f669b687528@www.speedtest.net:443?path=%2Fwebsocket&security=tls&host=sweden33.m2v2me2.ir&type=ws&sni=sweden33.m2v2me2.ir#sweden+ws+trojan+o2+%F0%9F%AB%81
+trojan://6e224187-26cb-4274-8bc1-b077ee12088d@www.speedtest.net:443?path=%2F&security=tls&host=ger3738.m2v2me2.ir&type=ws&sni=ger3738.m2v2me2.ir#Germany_trojan_ws-o2
