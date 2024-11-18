@@ -14,3 +14,5 @@ trojan://678c32ab-7458-4a47-bc23-b72f923f77c3@www.speedtest.net:443?mode=gun&sec
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#Finland+405+%2F
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@www.speedtest.net:8443?path=%2FTELEGRAM-%40vpnAndroid2.%40vpnAndroid2%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#vle%24%24%F0%9F%AB%81
 trojan://76661c88-e1ed-4333-a3dc-cdc01697ebf7@www.speedtest.net:443?mode=gun&security=tls&authority=&type=grpc&serviceName=grpc&sni=ger3738.m2v2me2.ir#Trojan+Germany+o2+%F0%9F%AB%81
+trojan://76661c88-e1ed-4333-a3dc-cdc01697ebf7@www.speedtest.net:443?path=%2F&security=tls&host=ger3738.m2v2me2.ir&type=ws&sni=ger3738.m2v2me2.ir#Trojan+Germany+o2+%F0%9F%AB%81+2
+trojan://981dc691-473d-49d7-991b-76a6f2805fd6@www.speedtest.net:443?path=%2F&security=tls&host=usaa1.m2v2me2.ir&type=ws&sni=usaa1.m2v2me2.ir#U+S+A+%F0%9F%AB%81
