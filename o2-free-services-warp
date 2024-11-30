@@ -29,3 +29,4 @@ vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmV5b25kZHN6LmNmZCIsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuS8iuaclyBvMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZXlvbmRkc3ouY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://958c46c9-54ca-46fd-86f5-e8dc4e7a0ded@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=uk-full.privateip.net&type=ws&sni=uk-full.privateip.net#vless-ws-tls-o2
 vless://0174af1a-620e-495a-9e90-d0a22b3f799b@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=tr-full.privateip.net&type=ws&sni=tr-full.privateip.net#turkey+o2
+vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=de-full.privateip.net&type=ws&sni=de-full.privateip.net#vless-ws-tls
