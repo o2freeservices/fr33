@@ -31,3 +31,4 @@ vless://958c46c9-54ca-46fd-86f5-e8dc4e7a0ded@www.speedtest.net:443?path=%2FVLESS
 vless://0174af1a-620e-495a-9e90-d0a22b3f799b@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=tr-full.privateip.net&type=ws&sni=tr-full.privateip.net#turkey+o2
 vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=de-full.privateip.net&type=ws&sni=de-full.privateip.net#vless-ws-tls
 vless://e690f62e-56cc-4320-aac8-e95953b61289@www.speedtest.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=germ2ny.m2v2me2.ir#Germany-gRPC-o2
+vless://b3f23884-b005-11ef-ac94-0016b061439e@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=yof55.m2v2me2.ir&type=ws&sni=yof55.m2v2me2.ir#UAE+443+O2
