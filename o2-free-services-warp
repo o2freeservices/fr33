@@ -35,3 +35,4 @@ vless://b3f23884-b005-11ef-ac94-0016b061439e@www.speedtest.net:443?path=%2Fvless
 vless://5994c97c-f573-45e3-b85d-4aad2ed41ace@www.speedtest.net:443?security=tls&sni=tteng.m2v2me2.ir&type=ws&path=/VLESS&host=tteng.m2v2me2.ir&encryption=none#vless-ws-tls
 vless://0ceb9076-61dc-4c6f-8365-c672679aac86@www.speedtest.net:443?path=%2FVLESS&security=tls&encryption=none&host=fr2-full.privateip.net&type=ws&sni=fr2-full.privateip.net#vless-ws-tls
 vless://508d4840-1aef-4542-ad9f-cf6cde2241c3@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=netherlandsss27.m2v2me2.ir&type=ws&sni=netherlandsss27.m2v2me2.ir#Netherlands%20o2%20ws
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_98bf@www.speedtest.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=48ugy.m2v2me2.ir#sshocean-ftft544ff-gRPC
