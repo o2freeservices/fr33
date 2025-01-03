@@ -4,3 +4,5 @@ vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_8046@www.speedtest.net:80?path=
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_8046@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=O2freeservices8499.vpnbro.me&type=ws&sni=O2freeservices8499.vpnbro.me#Germany%20o2
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a4a7cbb@O2freeservices3922.vpnbro.me:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=O2freeservices3922.vpnbro.me#serbia-gRPC
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a4a7cbb@www.speedtest.net:8443?path=%2Fvless&security=tls&encryption=none&host=O2freeservices3922.vpnbro.me&type=ws&sni=O2freeservices3922.vpnbro.me#Serbia%20ip%20o2
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4eb10da@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=O2freeservices8.vpnbro.me&type=ws&sni=O2freeservices8.vpnbro.me#usa%20o2%20ws
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4eb10da@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=O2freeservices8.vpnbro.me&type=ws&sni=O2freeservices8.vpnbro.me#usa%20o2%20ws
