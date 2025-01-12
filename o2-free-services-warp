@@ -7,3 +7,5 @@ vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_a4a7cbb@www.speedtest.net:8443?pa
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4eb10da@www.speedtest.net:443?path=%2Fvless&security=tls&encryption=none&host=O2freeservices8.vpnbro.me&type=ws&sni=O2freeservices8.vpnbro.me#usa%20o2%20ws
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_4eb10da@www.speedtest.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=O2freeservices8.vpnbro.me#usa%20grpc
 vless://7d381c89-2edf-44ad-8a6a-035cf0df0e9a@nursingtools.ir:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=O2freeservices1241.vpnbro.me#o%C2%B2
+trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@nursingtools.ir:443?path=%2Fanything%2Ffreevpn.us-O2o2o2o2%2Ftrojan&security=tls&host=O2vp33n.vpnbro.me&type=ws&sni=O2vp33n.vpnbro.me#o2
+vless://7772bb24-976a-45ca-aa76-f4f1b7f50923@nursingtools.ir:443?path=%2Fanything%2Ffreevpn.us-O2o2o2o2%2Fvless&security=tls&encryption=none&host=O2vp33n.vpnbro.me&type=ws&sni=O2vp33n.vpnbro.me#o2%20vless
