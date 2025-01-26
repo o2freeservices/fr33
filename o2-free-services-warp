@@ -3,3 +3,4 @@ vless://f535add1-86b2-40d7-a0db-d2ba1a5346e4@nursingtools.ir:443?mode=gun&securi
 vmess://eyJhZGQiOiJudXJzaW5ndG9vbHMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV1LTIuaGlodS5uZXQiLCJpZCI6Ijk1NjQ0ZjYwLWRiZjktMTFlZi1iMDM2LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8zMGppMXFlZCIsInBvcnQiOiI4MCIsInBzIjoiTkwoSVB2NCBcdTAwMjYgSVB2NikgMjAyNS0wMi0wMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://879181d0-dbfa-11ef-a913-1239d0255272@u2.nursingtools.ir:443?path=%2Fvlws&security=tls&encryption=none&type=ws#US
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_edee@nursingtools.ir:443?path=%2Fvless&security=tls&encryption=none&host=O2o2o2dnc.vpnbro.me&type=ws&sni=O2o2o2dnc.vpnbro.me#sweden
+trojan://f03ef9c6-7997-4b01-9ff6-92c7393ee225@nursingtools.ir:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=333eng.m2v2me2.ir#trojan-grpc
