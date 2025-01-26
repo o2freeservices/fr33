@@ -1,3 +1,4 @@
 vless://f535add1-86b2-40d7-a0db-d2ba1a5346e4@nursingtools.ir:443?path=%2Fvless&security=tls&encryption=none&host=de1.vlessvh.site&type=ws&sni=de1.vlessvh.site#o2-germany-ws
 vless://f535add1-86b2-40d7-a0db-d2ba1a5346e4@nursingtools.ir:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=Neo1938.vpnbro.me#o2-germany-gRPC
 vmess://eyJhZGQiOiJudXJzaW5ndG9vbHMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV1LTIuaGlodS5uZXQiLCJpZCI6Ijk1NjQ0ZjYwLWRiZjktMTFlZi1iMDM2LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8zMGppMXFlZCIsInBvcnQiOiI4MCIsInBzIjoiTkwoSVB2NCBcdTAwMjYgSVB2NikgMjAyNS0wMi0wMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://879181d0-dbfa-11ef-a913-1239d0255272@u2.nursingtools.ir:443?path=%2Fvlws&security=tls&encryption=none&type=ws#US
