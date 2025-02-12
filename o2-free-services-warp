@@ -1,3 +1,21 @@
+# o2 wireguard configuration
+
+[Interface]
+# Your client's private key
+PrivateKey = 2LqXKGsGgtPVDL7YNS44DsvZl50k9ptXBLVvgEgL+Ws=
+# The IP addresses assigned to this interface (IPv4 and IPv6)
+Address = 172.16.0.2/32, 2606:4700:110:822b:b0ea:753a:175d:a651/128
+# Set the MTU as specified
+MTU = 1280
+
+[Peer]
+# The remote peer’s public key
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+# The endpoint for the connection (IPv6 address with port)
+Endpoint = [2606:4700:d0::9204:435d:cd64:215b]:968
+# AllowedIPs defines what traffic should be routed through the tunnel.
+# Adjust if you do not wish to tunnel all traffic.
+AllowedIPs = 0.0.0.0/0, ::/0
 vless://f535add1-86b2-40d7-a0db-d2ba1a5346e4@nursingtools.ir:443?path=%2Fvless&security=tls&encryption=none&host=de1.vlessvh.site&type=ws&sni=de1.vlessvh.site#o2-germany-ws
 vless://f535add1-86b2-40d7-a0db-d2ba1a5346e4@nursingtools.ir:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=Neo1938.vpnbro.me#o2-germany-gRPC
 vmess://eyJhZGQiOiJudXJzaW5ndG9vbHMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV1LTIuaGlodS5uZXQiLCJpZCI6Ijk1NjQ0ZjYwLWRiZjktMTFlZi1iMDM2LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8zMGppMXFlZCIsInBvcnQiOiI4MCIsInBzIjoiTkwoSVB2NCBcdTAwMjYgSVB2NikgMjAyNS0wMi0wMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -20,21 +38,3 @@ vless://776b0060-e67c-11ef-8879-1239d0255272@nursingtools.ir:443?path=%2Fvlws&se
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoibnVsbCIsImZwIjoiIiwiaG9zdCI6ImZyNDg5My5tMnYybWUyLmlyIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfpbggZnJhbmNlIiwic2N5IjoiYXV0byIsInNuaSI6ImZyNDg5My5tMnYybWUyLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjYW4zNDUubTJ2Mm1lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2FuMzQ1Lm0ydjJtZTIuaXIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+rgSBjYW5hZGEg8J+rgSIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYW4zNDUubTJ2Mm1lMi5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 wireguard://2LqXKGsGgtPVDL7YNS44DsvZl50k9ptXBLVvgEgL%2BWs%3D@[2606:4700:d0::9204:435d:cd64:215b]:968?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A822b%3Ab0ea%3A753a%3A175d%3Aa651%2F128&presharedkey=&reserved=0%2C0%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#o2%20wireguard
-# o2 wireguard configuration
-
-[Interface]
-# Your client's private key
-PrivateKey = 2LqXKGsGgtPVDL7YNS44DsvZl50k9ptXBLVvgEgL+Ws=
-# The IP addresses assigned to this interface (IPv4 and IPv6)
-Address = 172.16.0.2/32, 2606:4700:110:822b:b0ea:753a:175d:a651/128
-# Set the MTU as specified
-MTU = 1280
-
-[Peer]
-# The remote peer’s public key
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-# The endpoint for the connection (IPv6 address with port)
-Endpoint = [2606:4700:d0::9204:435d:cd64:215b]:968
-# AllowedIPs defines what traffic should be routed through the tunnel.
-# Adjust if you do not wish to tunnel all traffic.
-AllowedIPs = 0.0.0.0/0, ::/0
