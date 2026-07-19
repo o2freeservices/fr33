@@ -3,11 +3,13 @@
 
   "notice": {
     "enabled": true,
-    "id": "notice-001",
+    "id": "daily-welcome",
     "title": "Welcome",
     "message": "Welcome to Xray Super Client!",
     "action_label": "",
-    "action_url": ""
+    "action_url": "",
+    "repeat_daily": true,
+    "earliest_hour": 11
   },
 
   "update": {
